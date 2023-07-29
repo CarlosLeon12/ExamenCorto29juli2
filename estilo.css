@@ -1,0 +1,11 @@
+.moza{
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+    padding: 10px;
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    transform: translate(-50%);
+    width: 140px;
+}
